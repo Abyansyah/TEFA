@@ -14,7 +14,7 @@
 
 - Page Tentang kami
 
-![page-success](./dokumentasi/Tentang kami.PNG)
+![page-success](./dokumentasi/Tentangkami.PNG)
 
 - Layanan
 
