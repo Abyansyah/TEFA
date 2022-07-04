@@ -1,6 +1,6 @@
 # PT. KCA
 
-Website untuk memasarkan jasa 
+- Website untuk memasarkan jasa 
 
 ## Fitur validasi yang ada
 
@@ -14,7 +14,7 @@ Website untuk memasarkan jasa
 
 - Page Tentang kami
 
-![confirm-page](./dokumentasi/Tentang kami.PNG)
+![page-success](./dokumentasi/Tentang kami.PNG)
 
 - Layanan
 
