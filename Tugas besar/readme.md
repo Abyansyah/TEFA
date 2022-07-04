@@ -30,7 +30,7 @@ Website untuk memasarkan jasa
 
 - IT Infrastructure
 
-![page-success](./dukumentasi/Itinfrastructure.PNG)
+![page-success](./dokumentasi/Itinfrastructure.PNG)
 
 ## Technology
 
